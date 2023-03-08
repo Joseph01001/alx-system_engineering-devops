@@ -1,1 +1,1 @@
-all files contain a shell executable commands
+all files have scripts that are executable
